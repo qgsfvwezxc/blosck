@@ -5891,7 +5891,6 @@ www.roblox.com
 api.roblox.com
 assetgame.roblox.com
 chat.roblox.com
-clientsettings.roblox.com
 clientsettings.api.roblox.com
 contentstore.roblox.com
 economy.roblox.com
@@ -5905,7 +5904,6 @@ points.roblox.com
 publish.roblox.com
 search.roblox.com
 trades.roblox.com
-users.roblox.com
 badges.roblox.com
 billing.roblox.com
 catalog.roblox.com
@@ -6215,7 +6213,6 @@ roblox.jp
 roblox.tv
 css.rbxcdn.com
 js.rbxcdn.com
-ecsv2.roblox.com
 tr.rbxcdn.com
 arkoselabs.com
 blox.com
@@ -6728,7 +6725,6 @@ adspolicy.roblox.com
 captcha.roblox.com
 cdn.roblox.com
 clicks.roblox.com
-ephemeralcounters.api.roblox.com
 gamepersistence.roblox.com
 ratings.roblox.com
 wiki.roblox.com
