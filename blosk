@@ -5904,7 +5904,6 @@ metrics.roblox.com
 points.roblox.com
 publish.roblox.com
 search.roblox.com
-thumbnails.roblox.com
 trades.roblox.com
 users.roblox.com
 badges.roblox.com
@@ -6113,7 +6112,6 @@ rbxlabs.com
 robloxlabs.com
 rblx.com
 arkoselabs.com
-ecsv2.roblox.com
 metrics.roblox.com
 funcaptcha.com
 apexlegends.com
@@ -6218,7 +6216,6 @@ roblox.tv
 css.rbxcdn.com
 js.rbxcdn.com
 ecsv2.roblox.com
-realtime-signalr.roblox.com
 tr.rbxcdn.com
 arkoselabs.com
 blox.com
@@ -6363,8 +6360,6 @@ a0.awsstatic.com
 d1.awsstatic.com
 api.timezonedb.com
 surveymonkey.com
-accountsettings.roblox.com
-assetdelivery.roblox.com
 auth.roblox.com
 avatar.roblox.com
 chatmoderation.roblox.com
